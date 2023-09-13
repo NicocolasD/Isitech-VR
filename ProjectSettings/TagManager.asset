@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Anchor
   - TriggerObject
+  - Salle2Trigger1
+  - Salle2Trigger2
+  - Salle2Trigger3
+  - Salle1Trigger1
   layers:
   - Default
   - TransparentFX
