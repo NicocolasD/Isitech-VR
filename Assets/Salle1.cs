@@ -26,7 +26,7 @@ public class ReceptacleTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        // Assurez-vous de tagger l'objet qui doit déclencher le réceptacle avec "TriggerObject"
+        // Assurez-vous de tagger l'objet qui doit  déclencher le réceptacle avec "TriggerObject"
         if (other.CompareTag("TriggerObject"))
         {
             isDoorOpening = true;
